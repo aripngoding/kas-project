@@ -1,0 +1,6 @@
+{
+  "name": "KAS RT Transparan & Manajemen Iuran",
+  "description": "Sistem informasi pengelolaan kas RT, transparansi keuangan warga, notifikasi tagihan otomatis, pelacakan transaksi, direktori profil warga, dan ekspor laporan PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
